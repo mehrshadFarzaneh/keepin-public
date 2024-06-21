@@ -1,7 +1,7 @@
 {
-    "name": "Angular Project",
-    "short_name": "AngularRep",
-    "description": "A representation of my Angular project hosted on my VPS.",
+    "name": "KeepIn Application",
+    "short_name": "KeepIn",
+    "description": "The best Android app for memorizing words",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#15023E",
