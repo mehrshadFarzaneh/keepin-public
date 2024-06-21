@@ -1,11 +1,11 @@
 {
-    "name": "Angular Project Representation",
+    "name": "Angular Project",
     "short_name": "AngularRep",
     "description": "A representation of my Angular project hosted on my VPS.",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "background_color": "#15023E",
+    "theme_color": "#15023E",
     "icons": [
       {
         "src": "assets/icons/icon-192x192.png",
